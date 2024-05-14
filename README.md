@@ -54,15 +54,21 @@ The project includes robust error handling mechanisms to gracefully handle and r
 
 ## Database Seed
 
-- create an admin user in the database by --> node seeds.js
+- create an admin user in the database by 
+
+```
+$ node seeds.js
+
+```
+
 
 ## Install
 
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/MahamdSirafi/user-Authentication-Authorization.git
-$ cd user-Authentication-Authorization
+$ git clone https://github.com/MahamdSirafi/Library-Management-.git
+$ cd Library-Management-
 $ npm install
 ```
 
